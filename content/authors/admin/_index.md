@@ -7,7 +7,7 @@ interests:
 social:
   - display:
       header: false
-    link: www.nickbuttrick.com
+    link: https://www.nickbuttrick.com
     icon_pack: fas
     icon: dumpster
     label: Personal Websity
@@ -42,7 +42,8 @@ education:
   courses: []
 email: ""
 superuser: true
-user_groups: ["Principal Investigator"]
+user_groups:
+  - Principal Investigator
 highlight_name: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
