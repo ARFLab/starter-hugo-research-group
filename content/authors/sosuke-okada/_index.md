@@ -12,4 +12,6 @@ organizations:
   - name: University of Wisconsin-Madison
     url: https://psych.wisc.edu/
 superuser: false
+user_groups:
+  - Postdocs
 ---
