@@ -39,7 +39,13 @@ organizations:
   - name: University of Wisconsin-Madison
     url: https://psych.wisc.edu/
 education:
-  courses: []
+  courses:
+    - course: Postdoc
+      institution: School of Public and International Affairs, Princeton University
+    - course: Ph.D.
+      institution: University of Virginia
+    - course: B.A.
+      institution: Yale University
 email: ""
 superuser: true
 user_groups:
