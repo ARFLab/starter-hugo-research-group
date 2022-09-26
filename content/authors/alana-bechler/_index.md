@@ -6,5 +6,5 @@ bio: "I like birch trees for their bark, maple trees for their red and yellow
 social: []
 superuser: false
 user_groups:
-  - Undergraduate
+  - Undergraduate Researchers
 ---
