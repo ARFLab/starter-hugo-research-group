@@ -1,11 +1,11 @@
 ---
 title: Sosuke Okada
 role: Postdoctoral Research Associate
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: mailto:sokada@wisc.edu
+    link: mailto:sokada2@wisc.edu
     icon_pack: fas
     icon: envelope
 organizations:
