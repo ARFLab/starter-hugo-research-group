@@ -18,8 +18,8 @@ content:
   user_groups:
     - Principal Investigator
     - Postdocs
-    - Researchers
     - Grad Students
+    - Undergraduate Researchers
     - Administration
     - Visitors
     - Alumni
