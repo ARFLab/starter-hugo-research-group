@@ -1,7 +1,7 @@
 ---
 title: Nick Buttrick
 role: Assistant Professor of Social Psychology
-avatar_filename: dsc_1145.jpg
+avatar_filename: avatar.jpg
 bio: I'm the person who runs the lab.
 interests: []
 social:
